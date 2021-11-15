@@ -8,5 +8,3 @@ some more text added to 5.txt
 3
 
 new branch text
-
-another text to new branch
